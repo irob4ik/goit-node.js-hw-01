@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "commander": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "shortid": "^2.2.16"
+  }
+}
